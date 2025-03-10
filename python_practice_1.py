@@ -1,0 +1,1 @@
+print('Oleksii Ivanichok, 6')
